@@ -1,0 +1,15 @@
+D:\Project\CSharp\ApexInventory\Apex.Application\bin\Debug\net10.0\Apex.Application.deps.json
+D:\Project\CSharp\ApexInventory\Apex.Application\bin\Debug\net10.0\Apex.Application.dll
+D:\Project\CSharp\ApexInventory\Apex.Application\bin\Debug\net10.0\Apex.Application.pdb
+D:\Project\CSharp\ApexInventory\Apex.Application\bin\Debug\net10.0\Apex.Domain.dll
+D:\Project\CSharp\ApexInventory\Apex.Application\bin\Debug\net10.0\Apex.Domain.pdb
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.csproj.AssemblyReference.cache
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.AssemblyInfoInputs.cache
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.AssemblyInfo.cs
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.App.28FF0B2D.Up2Date
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.dll
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\refint\Apex.Application.dll
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\Apex.Application.pdb
+D:\Project\CSharp\ApexInventory\Apex.Application\obj\Debug\net10.0\ref\Apex.Application.dll

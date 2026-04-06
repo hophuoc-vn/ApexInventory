@@ -1,0 +1,11 @@
+D:\Project\CSharp\ApexInventory\Apex.Domain\bin\Debug\net10.0\Apex.Domain.deps.json
+D:\Project\CSharp\ApexInventory\Apex.Domain\bin\Debug\net10.0\Apex.Domain.dll
+D:\Project\CSharp\ApexInventory\Apex.Domain\bin\Debug\net10.0\Apex.Domain.pdb
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.AssemblyInfoInputs.cache
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.AssemblyInfo.cs
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.dll
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\refint\Apex.Domain.dll
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\Apex.Domain.pdb
+D:\Project\CSharp\ApexInventory\Apex.Domain\obj\Debug\net10.0\ref\Apex.Domain.dll

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props.txt" />
+  </Folder>
+  <Project Path="Apex.Api/Apex.Api.csproj" />
+  <Project Path="Apex.Application/Apex.Application.csproj" />
+  <Project Path="Apex.Domain/Apex.Domain.csproj" />
+  <Project Path="Apex.Infrastructure/Apex.Infrastructure.csproj" />
+  <Project Path="Apex.UnitTests/Apex.UnitTests.csproj" />
+</Solution>
