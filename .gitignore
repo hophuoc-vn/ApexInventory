@@ -32,3 +32,6 @@ apex-log-*.txt
 ## [ IDEs ]
 .vscode/
 .idea/
+
+## [ Local ]
+project_structure.txt
