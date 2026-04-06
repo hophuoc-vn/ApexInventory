@@ -31,7 +31,11 @@ apex-log-*.txt
 
 ## [ IDEs ]
 .vscode/
+<<<<<<< HEAD
 .idea/
 
 ## [ Local ]
 project_structure.txt
+=======
+.idea/
+>>>>>>> parent of f1a57ac (Update .gitignore)

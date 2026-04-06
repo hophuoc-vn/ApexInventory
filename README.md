@@ -1,6 +1,6 @@
-# Project Apex: Enterprise-Grade .NET 10 Web API
+# Apex: Enterprise-Grade .NET 10 Web API
 
-**Project Apex** is a high-performance, scalable backend system engineered with **Clean Architecture** and **Domain-Driven Design (DDD)** principles. It is designed to handle high-precision financial transactions, automated background analytics, and robust data integrity for modern fintech applications.
+**Apex** is a high-performance, scalable backend system engineered with **Clean Architecture** and **Domain-Driven Design (DDD)** principles. It is designed to handle high-precision financial transactions, automated background analytics, and robust data integrity for modern fintech applications.
 
 ---
 
