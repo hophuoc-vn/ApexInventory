@@ -32,3 +32,6 @@ apex-log-*.txt
 ## [ IDEs ]
 .vscode/
 .idea/
+
+# Server Privacy
+project_structure.txt
